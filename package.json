@@ -1,0 +1,27 @@
+{
+  "name": "tingyun-plugin-utils",
+  "version": "0.1.0",
+  "description": "Tingyun Utils Plugin",
+  "cordova": {
+    "id": "tingyun-plugin-utils",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "tingyun",
+    "APM",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "Joe",
+  "license": "MIT"
+}
